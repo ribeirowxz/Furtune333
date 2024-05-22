@@ -1,10 +1,7 @@
 # Furtune333
 300 + 30 + 3 A cartinha vem.
 projeto-aposta/
-│
-├── index.html
-├── style.css
-└── script.js
+
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
